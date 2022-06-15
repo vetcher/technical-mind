@@ -1,0 +1,4 @@
+---
+aliases: [SQL]
+tags: [sql]
+---
